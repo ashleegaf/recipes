@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, Tahoma, sans-serif;
+}
+
+.header {
+  text-align: center;
+  color: #a52a2a;
+}
+
+.sub.header {
+  color: #bc4040;
+}
+
+div.column {
+  display: inline-block;
+  text-align: center;
+  background-color: #ffede1;
+  color: #b4654a;
+  border: 2px dotted #ecd2b2;
+  padding: 10px;
+}
+
+.row .column {
+  font-weight: bold;
+}
+
+img {
+  height: 250px;
+  width: 350px;
+}
+
+img:hover {
+  opacity: 0.6;
+}
