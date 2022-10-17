@@ -29,9 +29,12 @@ strong {
   color: #b4654a;
 }
 
+.container {
+  text-align: center;
+}
+
 .container .item {
   display: inline-block;
-  text-align: center;
   padding: 10px;
 }
 
